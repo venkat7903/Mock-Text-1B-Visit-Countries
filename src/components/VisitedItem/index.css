@@ -1,0 +1,26 @@
+.visited-item {
+  width: 30%;
+  margin-right: 20px;
+  background-color: #1f1f2f;
+}
+
+.country-img {
+  width: 100%;
+}
+
+.name-btn-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 10px;
+}
+
+.remove-btn {
+  color: #fff;
+  border: 1px solid #fff;
+  background-color: transparent;
+  height: 40px;
+  width: 100px;
+  border-radius: 8px;
+  cursor: pointer;
+}
